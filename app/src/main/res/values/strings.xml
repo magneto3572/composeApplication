@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">composeApplication</string>
+    <string name="horiz_pager_with_indicator_title">hello</string>
+</resources>
